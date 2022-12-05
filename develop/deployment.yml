@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: argocd-test-app
-        image: mbourges/argocd-test-app:0.1
+        image: mbourges/argocd-test-app:0.2
         ports:
         - containerPort: 3000
